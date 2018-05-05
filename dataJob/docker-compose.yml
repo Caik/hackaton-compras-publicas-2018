@@ -4,7 +4,7 @@ services:
         build:
             context: .
             dockerfile: Dockerfile-job
-        image: job:latest'
+        image: 'job:latest'
         volumes:
             - '.:${APP_DIRECTORY}'
             - '${APP_DIRECTORY}/node_modules'
@@ -14,9 +14,9 @@ services:
             - ./wait-for-it.sh
             - 'db:${DB_CONTAINER_PORT}'
             - '--'
-            - npm
+            - yarn
             - run
-            - serve
+            - start
         environment:
             - 'API_CONTAINER_PORT=${API_CONTAINER_PORT}'
             - 'DB_CONTAINER_PORT=${DB_CONTAINER_PORT}'
@@ -30,7 +30,7 @@ services:
         build:
             context: .
             dockerfile: Dockerfile-db
-        image: 'job-db:latest'
+        image: 'db:latest'
         volumes:
             - 'db-data:/data/db'
         ports:

@@ -1,20 +1,35 @@
-BEC MAPS
+# BEC MAPS
 
-Challenge: #sociedade
+## Desafio
 
-Team Name: Saltimbancos
+*   Sociedade
 
-Site: http://hackathoncompraspublicas.fazenda.sp.gov.br/
+## Nome do time
 
-Willian Gigliotti - wgigliotti@gmail.com
-Carlos Henrique Severino carlos@amlconsulting.com.br
-Bruno Leiros - bruno.leiros@amlconsulting.com.br
-Alexandre Siqueira - alexandre.siqueira@amlconsulting.com.br
-Mayra - (Precisa confirmar o e-mail dela)
+*   Saltimbancos
 
+## Site da aplicação realizada
 
-Descrição: Transparência dos gastos públicos e comparação com o benefício gerado.
+*   http://hackaton.w2it.com.br
 
-Link pra apresentação: https://prezi.com/_rnpror_rgtn/nome-do-projeto/?utm_campaign=share&utm_medium=copy
+---
 
-https://github.com/Caik/hackaton-compras-publicas-2018 
+## Descrição
+
+Transparência dos gastos públicos e comparação com o benefício gerado.
+
+## Link para a apresentação
+
+*   https://prezi.com/_rnpror_rgtn/becmaps/
+
+## Github com as tecnologias desenvolvidas
+
+*   https://github.com/Caik/hackaton-compras-publicas-2018
+
+---
+
+*   Willian Gigliotti - wgigliotti@gmail.com
+*   Carlos Henrique Severino - carlos@amlconsulting.com.br
+*   Bruno Leiros - bruno.leiros@amlconsulting.com.br
+*   Alexandre Siqueira - alexandre.siqueira@amlconsulting.com.br
+*   Myrian - michinoguera@gmail.com

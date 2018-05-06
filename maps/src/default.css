@@ -1,10 +1,9 @@
-	html, body
-	{
+	html,
+	body {
 		height: 100%;
 	}
-	
-	body
-	{
+
+	body {
 		margin: 0px;
 		padding: 0px;
 		background: #181818;
@@ -13,142 +12,126 @@
 		font-weight: 200;
 		color: #FFF;
 	}
-	
-	
-	h1, h2, h3
-	{
+
+	h1,
+	h2,
+	h3 {
 		margin: 0;
 		padding: 0;
 	}
-	
-	p, ol, ul
-	{
+
+	p,
+	ol,
+	ul {
 		margin-top: 0;
 	}
-	
-	ol, ul
-	{
+
+	ol,
+	ul {
 		padding: 0;
 		list-style: none;
 	}
-	
-	p
-	{
+
+	p {
 		line-height: 180%;
 	}
-	
-	strong
-	{
-	}
-	
-	a
-	{
+
+	strong {}
+
+	a {
 		color: #ee0000;
 	}
-	
-	a:hover
-	{
+
+	a:hover {
 		text-decoration: none;
 	}
-	
-	.container
-	{
+
+	.container {
 		overflow: hidden;
 		margin: 0em auto;
 		width: 1200px;
 	}
-	
-/*********************************************************************************/
-/* Image Style                                                                   */
-/*********************************************************************************/
 
-	.image
-	{
+	/*********************************************************************************/
+
+	/* Image Style                                                                   */
+
+	/*********************************************************************************/
+
+	.image {
 		display: inline-block;
 	}
-	
-	.image img
-	{
+
+	.image img {
 		display: block;
 		width: 100%;
 	}
-	
-	.image-full
-	{
+
+	.image-full {
 		display: block;
 		width: 100%;
 		margin: 0 0 2em 0;
 	}
-	
-	.image-left
-	{
+
+	.image-left {
 		float: left;
 		margin: 0 2em 2em 0;
 	}
-	
-	.image-centered
-	{
+
+	.image-centered {
 		display: block;
 		margin: 0 0 2em 0;
 	}
-	
-	.image-centered img
-	{
+
+	.image-centered img {
 		margin: 0 auto;
 		width: auto;
 	}
 
-/*********************************************************************************/
-/* List Styles                                                                   */
-/*********************************************************************************/
+	/*********************************************************************************/
 
-	ul.style1
-	{
-	}
-	
-	ul.actions
-	{
-	}
-	
-	ul.actions li
-	{
+	/* List Styles                                                                   */
+
+	/*********************************************************************************/
+
+	ul.style1 {}
+
+	ul.actions {}
+
+	ul.actions li {
 		display: inline-block;
 		padding: 0em 0.50em;
 	}
 
+	/*********************************************************************************/
 
-/*********************************************************************************/
-/* Social Icon Styles                                                            */
-/*********************************************************************************/
+	/* Social Icon Styles                                                            */
 
-	ul.contact
-	{
+	/*********************************************************************************/
+
+	ul.contact {
 		margin: 0;
 		padding: 2em 0em 0em 0em;
 		list-style: none;
 	}
-	
-	ul.contact li
-	{
+
+	ul.contact li {
 		display: inline-block;
 		padding: 0em 0.30em;
 		font-size: 1em;
 	}
-	
-	ul.contact li span
-	{
+
+	ul.contact li span {
 		display: none;
 		margin: 0;
 		padding: 0;
 	}
-	
-	ul.contact li a
-	{
+
+	ul.contact li a {
 		color: #FFF;
 	}
-	
-	ul.contact li a:before
-	{
+
+	ul.contact li a:before {
 		display: inline-block;
 		background: #3f3f3f;
 		width: 40px;
@@ -158,19 +141,34 @@
 		text-align: center;
 		color: #FFFFFF;
 	}
-	
-	ul.contact li a.icon-twitter:before { background: #2DAAE4; }
-	ul.contact li a.icon-facebook:before { background: #39599F; }
-	ul.contact li a.icon-dribbble:before { background: #C4376B;	}
-	ul.contact li a.icon-tumblr:before { background: #31516A; }
-	ul.contact li a.icon-rss:before { background: #F2600B; }
 
-/*********************************************************************************/
-/* Button Style                                                                  */
-/*********************************************************************************/
+	ul.contact li a.icon-twitter:before {
+		background: #2DAAE4;
+	}
 
-	.button
-	{
+	ul.contact li a.icon-facebook:before {
+		background: #39599F;
+	}
+
+	ul.contact li a.icon-dribbble:before {
+		background: #C4376B;
+	}
+
+	ul.contact li a.icon-tumblr:before {
+		background: #31516A;
+	}
+
+	ul.contact li a.icon-rss:before {
+		background: #F2600B;
+	}
+
+	/*********************************************************************************/
+
+	/* Button Style                                                                  */
+
+	/*********************************************************************************/
+
+	.button {
 		display: inline-block;
 		padding: 1em 2em 1em 2em;
 		letter-spacing: 0.10em;
@@ -183,21 +181,20 @@
 		font-size: 1em;
 		color: #FFF;
 	}
-	
-	.button-alt
-	{
+
+	.button-alt {
 		padding: 1em 2em;
-		border-color: rgba(0,0,0,.8);
+		border-color: rgba(0, 0, 0, .8);
 		color: #FFF;
 	}
-/*********************************************************************************/
-/* Top nav bar style                                                             */
-/*********************************************************************************/
 
+	/*********************************************************************************/
 
-	.btn btn-secondary mb-1buttons
-	{
-			
+	/* Top nav bar style                                                             */
+
+	/*********************************************************************************/
+
+	.btn btn-secondary mb-1buttons {
 		display: inline-block;
 		font-weight: 500;
 		text-align: center;
@@ -214,8 +211,6 @@
 		line-height: 1.5;
 		border-radius: 0.25rem;
 		transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-		
-		
 		cursor: pointer;
 	}
 
@@ -224,21 +219,19 @@
 		background-color: #6c757d;
 		border-color: #6c757d;
 	}
-	
 
-	.btn btn-secondary:hover
-	{
+	.btn btn-secondary:hover {
 		color: #fff;
 		background-color: #5a6268;
 		border-color: #545b62;
 	}
-	.mb-1
-	{
+
+	.mb-1 {
 		margin-top: 0.375rem !important;
 		margin-bottom: 0.375rem !important;
 	}
-	.btn
-	{
+
+	.btn {
 		display: inline-block;
 		font-weight: 500;
 		text-align: center;
@@ -251,22 +244,31 @@
 		border-radius: 0.25rem;
 		transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 	}
-	.btn:hover, .btn:focus 
-	{
+
+	.btn:hover,
+	.btn:focus {
 		text-decoration: none;
 	}
-	*, *::before, *::after {
+
+	*,
+	*::before,
+	*::after {
 		box-sizing: border-box;
 	}
+
 	.text-white {
 		color: #fff !important;
 	}
-	.bg-dark, .bg-gray {
+
+	.bg-dark,
+	.bg-gray {
 		color: #ced4da;
 	}
+
 	.text-white {
 		color: #fff !important;
 	}
+
 	.row {
 		display: flex;
 		flex-wrap: wrap;
@@ -274,183 +276,179 @@
 		margin-left: -12px;
 		font-family: "Rubik", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 	}
-	
 
-	.row text-center 
-	{
+	.row text-center {
 		display: flex;
 		flex-wrap: wrap;
 		margin-right: -12px;
 		margin-left: -12px;
 	}
+
 	.text-center {
 		text-align: center !important;
 	}
-	
-	*, *::before, *::after 
-	{
+
+	*,
+	*::before,
+	*::after {
 		box-sizing: border-box;
 	}
-	.bg-dark, .bg-gray 
-	{
+
+	.bg-dark,
+	.bg-gray {
 		color: #ced4da;
 	}
-	.text-white 
-	{
+
+	.text-white {
 		color: #fff !important;
 	}
-	.col
-	{
+
+	.col {
 		flex-basis: 0;
 		flex-grow: 1;
 		max-width: 100%;
 	}
+
 	a {
-	color: #fff !important;
-    text-decoration: none;
-    background-color: transparent;
-    -webkit-text-decoration-skip: objects;
+		color: #fff !important;
+		text-decoration: none;
+		background-color: transparent;
+		-webkit-text-decoration-skip: objects;
 	}
 
-/*********************************************************************************/
-/* 4-colunas como tabelas                                                        */
-/*********************************************************************************/
-.colunas
-{
-	
-	display: flex;
-	-ms-flex-wrap: wrap;
-	flex-wrap: wrap;
-	margin-right: -15px;
-	margin-left: -15px;
-	background: #FFF;
-	color:black;
-	position: relative;
-    width: 100%;
-    min-height: 1px;
-    padding-right: 15px;
-    padding-left: 15px;
+	/*********************************************************************************/
 
+	/* 4-colunas como tabelas                                                        */
 
-}
+	/*********************************************************************************/
 
-.col-sm-3 {
-    -webkit-box-flex: 0;
-    -ms-flex: 0 0 25%;
-    flex: 0 0 25%;
-    max-width: 25%;
-}
+	.colunas {
+		display: flex;
+		-ms-flex-wrap: wrap;
+		flex-wrap: wrap;
+		margin-right: -15px;
+		margin-left: -15px;
+		background: #FFF;
+		color: black;
+		position: relative;
+		width: 100%;
+		min-height: 1px;
+		padding-right: 15px;
+		padding-left: 15px;
+	}
 
-	
-	
-		
-/*********************************************************************************/
-/* 4-column                                                                      */
-/*********************************************************************************/
+	.col-sm-3 {
+		-webkit-box-flex: 0;
+		-ms-flex: 0 0 25%;
+		flex: 0 0 25%;
+		max-width: 25%;
+	}
+
+	/*********************************************************************************/
+
+	/* 4-column                                                                      */
+
+	/*********************************************************************************/
 
 	.box1,
 	.box2,
 	.box3,
-	.box4
-	{
+	.box4 {
 		width: 235px;
 	}
-	
+
 	.box1,
 	.box2,
 	.box3,
-	{
+		{
 		float: left;
 		margin-right: 20px;
 	}
-	
-	.box4
-	{
+
+	.box4 {
 		float: right;
 	}
-	
-/*********************************************************************************/
-/* 3-column                                                                      */
-/*********************************************************************************/
+
+	/*********************************************************************************/
+
+	/* 3-column                                                                      */
+
+	/*********************************************************************************/
 
 	.boxA,
 	.boxB,
-	.boxC
-	{
+	.boxC {
 		width: 384px;
 	}
 
 	.boxA,
-	.boxB
-	{
+	.boxB {
 		float: left;
 		margin-right: 20px;
 	}
-	
-	.boxC
-	{
+
+	.boxC {
 		float: right;
 	}
 
-/*********************************************************************************/
-/* 2-column                                                                      */
-/*********************************************************************************/
+	/*********************************************************************************/
+
+	/* 2-column                                                                      */
+
+	/*********************************************************************************/
 
 	.tbox1,
-	.tbox2
-	{
+	.tbox2 {
 		width: 575px;
 	}
-	
-	.tbox1
-	{
+
+	.tbox1 {
 		float: left;
 	}
 
-	.tbox2
-	{
+	.tbox2 {
 		float: right;
 	}
 
-	
-/*********************************************************************************/
-/* Heading Titles                                                                */
-/*********************************************************************************/
+	/*********************************************************************************/
 
-	.title
-	{
+	/* Heading Titles                                                                */
+
+	/*********************************************************************************/
+
+	.title {
 		margin-bottom: 3em;
 	}
-	
-	.title h2
-	{
+
+	.title h2 {
 		font-size: 2.7em;
 	}
-	
-	.title .byline
-	{
+
+	.title .byline {
 		font-size: 1.3em;
-		color: rgba(255,255,255,0.60);
+		color: rgba(255, 255, 255, 0.60);
 	}
 
-/*********************************************************************************/
-/* Header                                                                        */
-/*********************************************************************************/
+	/*********************************************************************************/
 
-	#wrapper
-	{
+	/* Header                                                                        */
+
+	/*********************************************************************************/
+
+	#wrapper {
 		position: relative;
 		padding: 5em 0em 7em 0em;
 		background: #FFF;
 	}
 
-/*********************************************************************************/
-/* Header                                                                        */
-/*********************************************************************************/
+	/*********************************************************************************/
+
+	/* Header                                                                        */
+
+	/*********************************************************************************/
 
 	#header-wrapper,
-	#map_canvas
-	{
+	#map_canvas {
 		position: relative;
 		padding: 5em 0em 7em 0em;
 		background-size: cover;
@@ -458,234 +456,221 @@
 		height: 600px;
 	}
 
-	#header
-	{
+	#header {
 		position: relative;
 		padding: 5em 0em;
 	}
 
-/*********************************************************************************/
-/* Logo                                                                          */
-/*********************************************************************************/
+	/*********************************************************************************/
 
-	#logo
-	{
+	/* Logo                                                                          */
+
+	/*********************************************************************************/
+
+	#logo {
 		position: absolute;
 		top: 3.6em;
 		left: 0;
 	}
-	
-	#logo h1
-	{
+
+	#logo h1 {
 		font-size: 2.6em;
 		color: #79C255;
 	}
-	
-	#logo a
-	{
+
+	#logo a {
 		text-decoration: none;
-		color: rgba(255,255,255,1);
+		color: rgba(255, 255, 255, 1);
 	}
 
-/*********************************************************************************/
-/* Menu                                                                          */
-/*********************************************************************************/
+	/*********************************************************************************/
 
-	#menu
-	{
+	/* Menu                                                                          */
+
+	/*********************************************************************************/
+
+	#menu {
 		position: absolute;
 		top: 4.5em;
 		right: 0;
 	}
-	
-	#menu ul
-	{
+
+	#menu ul {
 		display: inline-block;
 	}
-	
-	#menu li
-	{
+
+	#menu li {
 		display: block;
 		float: left;
 		text-align: center;
 	}
-	
-	#menu li a, #menu li span
-	{
+
+	#menu li a,
+	#menu li span {
 		padding: 1em 1.5em;
 		letter-spacing: 1px;
 		text-decoration: none;
 		text-transform: uppercase;
 		font-size: 0.8em;
-		color: rgba(255,255,255,0.80);
+		color: rgba(255, 255, 255, 0.80);
 	}
-	
-	#menu li:hover a, #menu li.active a, #menu li.active span
-	{
-	}
-	
-	#menu .active a
-	{
+
+	#menu li:hover a,
+	#menu li.active a,
+	#menu li.active span {}
+
+	#menu .active a {
 		background: #2651a8;
 		border-radius: 6px;
-		color: rgba(255,255,255,1);
-	}
-	
-	#menu .icon
-	{
+		color: rgba(255, 255, 255, 1);
 	}
 
-/*********************************************************************************/
-/* Banner                                                                        */
-/*********************************************************************************/
+	#menu .icon {}
 
-	#banner
-	{
+	/*********************************************************************************/
+
+	/* Banner                                                                        */
+
+	/*********************************************************************************/
+
+	#banner {
 		padding-top: 10em;
 		text-align: center;
 	}
-	
-	#banner .title h2
-	{
+
+	#banner .title h2 {
 		font-size: 4em;
 	}
-	
-	#banner .title .byline
-	{
+
+	#banner .title .byline {
 		font-size: 2em;
 	}
-	
-	#banner .button
-	{
+
+	#banner .button {
 		margin-top: 2em;
 		padding: 1.40em 3em;
 		border-radius: 6px;
 		font-weight: 700;
 		font-size: 1em;
-		
 	}
-	
-	.banner
-	{
+
+	.banner {
 		margin-bottom: 5em;
 	}
 
-/*********************************************************************************/
-/* Page                                                                          */
-/*********************************************************************************/
+	/*********************************************************************************/
 
-	#page
-	{
-	}
+	/* Page                                                                          */
 
-/*********************************************************************************/
-/* Content                                                                       */
-/*********************************************************************************/
+	/*********************************************************************************/
 
-	#content
-	{
-	}
+	#page {}
 
-/*********************************************************************************/
-/* Sidebar                                                                       */
-/*********************************************************************************/
+	/*********************************************************************************/
 
-	#sidebar
-	{
-	}
+	/* Content                                                                       */
 
-/*********************************************************************************/
-/* Footer                                                                        */
-/*********************************************************************************/
+	/*********************************************************************************/
 
-	#footer
-	{
-	}
+	#content {}
 
-/*********************************************************************************/
-/* Copyright                                                                     */
-/*********************************************************************************/
+	/*********************************************************************************/
 
-	#copyright
-	{
+	/* Sidebar                                                                       */
+
+	/*********************************************************************************/
+
+	#sidebar {}
+
+	/*********************************************************************************/
+
+	/* Footer                                                                        */
+
+	/*********************************************************************************/
+
+	#footer {}
+
+	/*********************************************************************************/
+
+	/* Copyright                                                                     */
+
+	/*********************************************************************************/
+
+	#copyright {
 		overflow: hidden;
 		padding: 5em 0em;
-		border-top: 1px solid rgba(0,0,0,0.08);
+		border-top: 1px solid rgba(0, 0, 0, 0.08);
 	}
-	
-	#copyright p
-	{
+
+	#copyright p {
 		text-align: center;
 		font-size: 1em;
-		color: rgba(255,255,255,0.3);
+		color: rgba(255, 255, 255, 0.3);
 	}
-	
-	#copyright a
-	{
+
+	#copyright a {
 		text-decoration: none;
-		color: rgba(255,255,255,0.6);
+		color: rgba(255, 255, 255, 0.6);
 	}
 
+	/*********************************************************************************/
 
-/*********************************************************************************/
-/* Welcome                                                                       */
-/*********************************************************************************/
+	/* Welcome                                                                       */
 
-	#welcome
-	{
+	/*********************************************************************************/
+
+	#welcome {
 		position: relative;
 		padding: 7em 0em 7em 0em;
 		background: #2651a8;
 		background-size: cover;
 		text-align: center;
 	}
-	
-	#welcome .container
-	{
+
+	#welcome .container {
 		width: 1000px;
 		padding: 0px 100px;
-		color: rgba(255,255,255,0.8);
+		color: rgba(255, 255, 255, 0.8);
 	}
-	
-	#welcome a
-	{
-		color: rgba(255,255,255,1);
+
+	#welcome a {
+		color: rgba(255, 255, 255, 1);
 	}
-	
-	#welcome .button
-	{
+
+	#welcome .button {
 		background: #FFF;
 		color: #2651a8;
 	}
 
+	/*********************************************************************************/
 
-/*********************************************************************************/
-/* Extra                                                                         */
-/*********************************************************************************/
+	/* Extra                                                                         */
 
-	#three-column
-	{
+	/*********************************************************************************/
+
+	#three-column {
 		text-align: center;
-		color: rgba(0,0,0,0.6);
+		color: rgba(0, 0, 0, 0.6);
 	}
 
-	#three-column .fa
-	{
+	#three-column .fa {
 		display: block;
 		padding: 1em 0em;
-		color: rgba(0,0,0,1);
+		color: rgba(0, 0, 0, 1);
 		font-size: 2em;
 	}
-	
-	#three-column .title h2
-	{
+
+	#three-column .title h2 {
 		font-weight: bold;
-		color: rgba(0,0,0,0.8);
+		color: rgba(0, 0, 0, 0.8);
 	}
 
-	#three-column .title .byline
-	{
+	#three-column .title .byline {
 		text-align: center;
-		color: rgba(0,0,0,.5);
+		color: rgba(0, 0, 0, .5);
 	}
 
+	.btn {
+		border: 1px solid #76fff2;
+		margin-right: 4px;
+	}

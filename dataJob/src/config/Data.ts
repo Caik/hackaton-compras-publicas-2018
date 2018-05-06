@@ -94,11 +94,6 @@ export async function populate() {
 }
 
 async function findGeolocation(cep: string): Promise<IGeometry> {
-	return {
-		type: "Point",
-		coordinates: [0, 0]
-	};
-
 	if (ceps.get(cep) !== undefined) {
 		return ceps.get(cep);
 	}

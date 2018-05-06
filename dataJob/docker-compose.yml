@@ -14,7 +14,7 @@ services:
             - ./wait-for-it.sh
             - 'db:${DB_CONTAINER_PORT}'
             - '--'
-            - yarn
+            - npm
             - run
             - start
         environment:

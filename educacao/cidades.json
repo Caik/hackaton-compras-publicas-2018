@@ -1,0 +1,2582 @@
+[
+    {
+        "value": 3500105,
+        "text": "ADAMANTINA"
+    },
+    {
+        "value": 3500204,
+        "text": "ADOLFO"
+    },
+    {
+        "value": 3500303,
+        "text": "AGUAI"
+    },
+    {
+        "value": 3500402,
+        "text": "AGUAS DA PRATA"
+    },
+    {
+        "value": 3500501,
+        "text": "AGUAS DE LINDOIA"
+    },
+    {
+        "value": 3500550,
+        "text": "AGUAS DE SANTA BARBARA"
+    },
+    {
+        "value": 3500600,
+        "text": "AGUAS DE SAO PEDRO"
+    },
+    {
+        "value": 3500709,
+        "text": "AGUDOS"
+    },
+    {
+        "value": 3500758,
+        "text": "ALAMBARI"
+    },
+    {
+        "value": 3500808,
+        "text": "ALFREDO MARCONDES"
+    },
+    {
+        "value": 3500907,
+        "text": "ALTAIR"
+    },
+    {
+        "value": 3501004,
+        "text": "ALTINOPOLIS"
+    },
+    {
+        "value": 3501103,
+        "text": "ALTO ALEGRE"
+    },
+    {
+        "value": 3501152,
+        "text": "ALUMINIO"
+    },
+    {
+        "value": 3501202,
+        "text": "ALVARES FLORENCE"
+    },
+    {
+        "value": 3501301,
+        "text": "ALVARES MACHADO"
+    },
+    {
+        "value": 3501400,
+        "text": "ALVARO DE CARVALHO"
+    },
+    {
+        "value": 3501509,
+        "text": "ALVINLANDIA"
+    },
+    {
+        "value": 3501608,
+        "text": "AMERICANA"
+    },
+    {
+        "value": 3501707,
+        "text": "AMERICO BRASILIENSE"
+    },
+    {
+        "value": 3501806,
+        "text": "AMERICO DE CAMPOS"
+    },
+    {
+        "value": 3501905,
+        "text": "AMPARO"
+    },
+    {
+        "value": 3502002,
+        "text": "ANALANDIA"
+    },
+    {
+        "value": 3502101,
+        "text": "ANDRADINA"
+    },
+    {
+        "value": 3502200,
+        "text": "ANGATUBA"
+    },
+    {
+        "value": 3502309,
+        "text": "ANHEMBI"
+    },
+    {
+        "value": 3502408,
+        "text": "ANHUMAS"
+    },
+    {
+        "value": 3502507,
+        "text": "APARECIDA"
+    },
+    {
+        "value": 3502606,
+        "text": "APARECIDA D´OESTE"
+    },
+    {
+        "value": 3502705,
+        "text": "APIAI"
+    },
+    {
+        "value": 3502754,
+        "text": "ARACARIGUAMA"
+    },
+    {
+        "value": 3502804,
+        "text": "ARACATUBA"
+    },
+    {
+        "value": 3502903,
+        "text": "ARACOIABA DA SERRA"
+    },
+    {
+        "value": 3503000,
+        "text": "ARAMINA"
+    },
+    {
+        "value": 3503109,
+        "text": "ARANDU"
+    },
+    {
+        "value": 3503158,
+        "text": "ARAPEI"
+    },
+    {
+        "value": 3503208,
+        "text": "ARARAQUARA"
+    },
+    {
+        "value": 3503307,
+        "text": "ARARAS"
+    },
+    {
+        "value": 3503356,
+        "text": "ARCO-IRIS"
+    },
+    {
+        "value": 3503406,
+        "text": "AREALVA"
+    },
+    {
+        "value": 3503505,
+        "text": "AREIAS"
+    },
+    {
+        "value": 3503604,
+        "text": "AREIOPOLIS"
+    },
+    {
+        "value": 3503703,
+        "text": "ARIRANHA"
+    },
+    {
+        "value": 3503802,
+        "text": "ARTUR NOGUEIRA"
+    },
+    {
+        "value": 3503901,
+        "text": "ARUJA"
+    },
+    {
+        "value": 3503950,
+        "text": "ASPASIA"
+    },
+    {
+        "value": 3504008,
+        "text": "ASSIS"
+    },
+    {
+        "value": 3504107,
+        "text": "ATIBAIA"
+    },
+    {
+        "value": 3504206,
+        "text": "AURIFLAMA"
+    },
+    {
+        "value": 3504305,
+        "text": "AVAI"
+    },
+    {
+        "value": 3504404,
+        "text": "AVANHANDAVA"
+    },
+    {
+        "value": 3504503,
+        "text": "AVARE"
+    },
+    {
+        "value": 3504602,
+        "text": "BADY BASSITT"
+    },
+    {
+        "value": 3504701,
+        "text": "BALBINOS"
+    },
+    {
+        "value": 3504800,
+        "text": "BALSAMO"
+    },
+    {
+        "value": 3504909,
+        "text": "BANANAL"
+    },
+    {
+        "value": 3505005,
+        "text": "BARAO DE ANTONINA"
+    },
+    {
+        "value": 3505104,
+        "text": "BARBOSA"
+    },
+    {
+        "value": 3505203,
+        "text": "BARIRI"
+    },
+    {
+        "value": 3505302,
+        "text": "BARRA BONITA"
+    },
+    {
+        "value": 3505351,
+        "text": "BARRA DO CHAPEU"
+    },
+    {
+        "value": 3505401,
+        "text": "BARRA DO TURVO"
+    },
+    {
+        "value": 3505500,
+        "text": "BARRETOS"
+    },
+    {
+        "value": 3505609,
+        "text": "BARRINHA"
+    },
+    {
+        "value": 3505708,
+        "text": "BARUERI"
+    },
+    {
+        "value": 3505807,
+        "text": "BASTOS"
+    },
+    {
+        "value": 3505906,
+        "text": "BATATAIS"
+    },
+    {
+        "value": 3506003,
+        "text": "BAURU"
+    },
+    {
+        "value": 3506102,
+        "text": "BEBEDOURO"
+    },
+    {
+        "value": 3506201,
+        "text": "BENTO DE ABREU"
+    },
+    {
+        "value": 3506300,
+        "text": "BERNARDINO DE CAMPOS"
+    },
+    {
+        "value": 3506359,
+        "text": "BERTIOGA"
+    },
+    {
+        "value": 3506409,
+        "text": "BILAC"
+    },
+    {
+        "value": 3506508,
+        "text": "BIRIGUI"
+    },
+    {
+        "value": 3506607,
+        "text": "BIRITIBA-MIRIM"
+    },
+    {
+        "value": 3506706,
+        "text": "BOA ESPERANCA DO SUL"
+    },
+    {
+        "value": 3506805,
+        "text": "BOCAINA"
+    },
+    {
+        "value": 3506904,
+        "text": "BOFETE"
+    },
+    {
+        "value": 3507001,
+        "text": "BOITUVA"
+    },
+    {
+        "value": 3507100,
+        "text": "BOM JESUS DO PERDOES"
+    },
+    {
+        "value": 3507159,
+        "text": "BOM SUCESSO DE ITARARE"
+    },
+    {
+        "value": 3507209,
+        "text": "BORA"
+    },
+    {
+        "value": 3507308,
+        "text": "BORACEIA"
+    },
+    {
+        "value": 3507407,
+        "text": "BORBOREMA"
+    },
+    {
+        "value": 3507456,
+        "text": "BOREBI"
+    },
+    {
+        "value": 3507506,
+        "text": "BOTUCATU"
+    },
+    {
+        "value": 3507605,
+        "text": "BRAGANCA PAULISTA"
+    },
+    {
+        "value": 3507704,
+        "text": "BRAUNA"
+    },
+    {
+        "value": 3507753,
+        "text": "BREJO ALEGRE"
+    },
+    {
+        "value": 3507803,
+        "text": "BRODOWSKI"
+    },
+    {
+        "value": 3507902,
+        "text": "BROTAS"
+    },
+    {
+        "value": 3508009,
+        "text": "BURI"
+    },
+    {
+        "value": 3508108,
+        "text": "BURITAMA"
+    },
+    {
+        "value": 3508207,
+        "text": "BURITIZAL"
+    },
+    {
+        "value": 3508306,
+        "text": "CABRALIA PAULISTA"
+    },
+    {
+        "value": 3508405,
+        "text": "CABREUVA"
+    },
+    {
+        "value": 3508504,
+        "text": "CACAPAVA"
+    },
+    {
+        "value": 3508603,
+        "text": "CACHOEIRA PAULISTA"
+    },
+    {
+        "value": 3508702,
+        "text": "CACONDE"
+    },
+    {
+        "value": 3508801,
+        "text": "CAFELANDIA"
+    },
+    {
+        "value": 3508900,
+        "text": "CAIABU"
+    },
+    {
+        "value": 3509007,
+        "text": "CAIEIRAS"
+    },
+    {
+        "value": 3509106,
+        "text": "CAIUA"
+    },
+    {
+        "value": 3509205,
+        "text": "CAJAMAR"
+    },
+    {
+        "value": 3509254,
+        "text": "CAJATI"
+    },
+    {
+        "value": 3509304,
+        "text": "CAJOBI"
+    },
+    {
+        "value": 3509403,
+        "text": "CAJURU"
+    },
+    {
+        "value": 3509452,
+        "text": "CAMPINA DO MONTE ALEGRE"
+    },
+    {
+        "value": 3509502,
+        "text": "CAMPINAS"
+    },
+    {
+        "value": 3509601,
+        "text": "CAMPO LIMPO PAULISTA"
+    },
+    {
+        "value": 3509700,
+        "text": "CAMPOS DO JORDAO"
+    },
+    {
+        "value": 3509809,
+        "text": "CAMPOS NOVOS PAULISTA"
+    },
+    {
+        "value": 3509908,
+        "text": "CANANEIA"
+    },
+    {
+        "value": 3509957,
+        "text": "CANAS"
+    },
+    {
+        "value": 3510005,
+        "text": "CANDIDO MOTA"
+    },
+    {
+        "value": 3510104,
+        "text": "CANDIDO RODRIGUES"
+    },
+    {
+        "value": 3510153,
+        "text": "CANITAR"
+    },
+    {
+        "value": 3510203,
+        "text": "CAPAO BONITO"
+    },
+    {
+        "value": 3510302,
+        "text": "CAPELA DO ALTO"
+    },
+    {
+        "value": 3510401,
+        "text": "CAPIVARI"
+    },
+    {
+        "value": 3510500,
+        "text": "CARAGUATATUBA"
+    },
+    {
+        "value": 3510609,
+        "text": "CARAPICUIBA"
+    },
+    {
+        "value": 3510708,
+        "text": "CARDOSO"
+    },
+    {
+        "value": 3510807,
+        "text": "CASA BRANCA"
+    },
+    {
+        "value": 3510906,
+        "text": "CASSIA DO COQUEIROS"
+    },
+    {
+        "value": 3511003,
+        "text": "CASTILHO"
+    },
+    {
+        "value": 3511102,
+        "text": "CATANDUVA"
+    },
+    {
+        "value": 3511201,
+        "text": "CATIGUA"
+    },
+    {
+        "value": 3511300,
+        "text": "CEDRAL"
+    },
+    {
+        "value": 3511409,
+        "text": "CERQUEIRA CESAR"
+    },
+    {
+        "value": 3511508,
+        "text": "CERQUILHO"
+    },
+    {
+        "value": 3511607,
+        "text": "CESARIO LANGE"
+    },
+    {
+        "value": 3511706,
+        "text": "CHARQUEADA"
+    },
+    {
+        "value": 3557204,
+        "text": "CHAVANTES"
+    },
+    {
+        "value": 3511904,
+        "text": "CLEMENTINA"
+    },
+    {
+        "value": 3512001,
+        "text": "COLINA"
+    },
+    {
+        "value": 3512100,
+        "text": "COLOMBIA"
+    },
+    {
+        "value": 3512209,
+        "text": "CONCHAL"
+    },
+    {
+        "value": 3512308,
+        "text": "CONCHAS"
+    },
+    {
+        "value": 3512407,
+        "text": "CORDEIROPOLIS"
+    },
+    {
+        "value": 3512506,
+        "text": "COROADOS"
+    },
+    {
+        "value": 3512605,
+        "text": "CORONEL MACEDO"
+    },
+    {
+        "value": 3512704,
+        "text": "CORUMBATAI"
+    },
+    {
+        "value": 3512803,
+        "text": "COSMOPOLIS"
+    },
+    {
+        "value": 3512902,
+        "text": "COSMORAMA"
+    },
+    {
+        "value": 3513009,
+        "text": "COTIA"
+    },
+    {
+        "value": 3513108,
+        "text": "CRAVINHOS"
+    },
+    {
+        "value": 3513207,
+        "text": "CRISTAIS PAULISTA"
+    },
+    {
+        "value": 3513306,
+        "text": "CRUZALIA"
+    },
+    {
+        "value": 3513405,
+        "text": "CRUZEIRO"
+    },
+    {
+        "value": 3513504,
+        "text": "CUBATAO"
+    },
+    {
+        "value": 3513603,
+        "text": "CUNHA"
+    },
+    {
+        "value": 3513702,
+        "text": "DESCALVADO"
+    },
+    {
+        "value": 3513801,
+        "text": "DIADEMA"
+    },
+    {
+        "value": 3513850,
+        "text": "DIRCE REIS"
+    },
+    {
+        "value": 3513900,
+        "text": "DIVINOLANDIA"
+    },
+    {
+        "value": 3514007,
+        "text": "DOBRADA"
+    },
+    {
+        "value": 3514106,
+        "text": "DOIS CORREGOS"
+    },
+    {
+        "value": 3514205,
+        "text": "DOLCINOPOLIS"
+    },
+    {
+        "value": 3514304,
+        "text": "DOURADO"
+    },
+    {
+        "value": 3514403,
+        "text": "DRACENA"
+    },
+    {
+        "value": 3514502,
+        "text": "DUARTINA"
+    },
+    {
+        "value": 3514601,
+        "text": "DUMONT"
+    },
+    {
+        "value": 3514700,
+        "text": "ECHAPORA"
+    },
+    {
+        "value": 3514809,
+        "text": "ELDORADO"
+    },
+    {
+        "value": 3514908,
+        "text": "ELIAS FAUSTO"
+    },
+    {
+        "value": 3514924,
+        "text": "ELISIARIO"
+    },
+    {
+        "value": 3514957,
+        "text": "EMBAUBA"
+    },
+    {
+        "value": 3515004,
+        "text": "EMBU"
+    },
+    {
+        "value": 3515103,
+        "text": "EMBU-GUACU"
+    },
+    {
+        "value": 3515129,
+        "text": "EMILIANOPOLIS"
+    },
+    {
+        "value": 3515152,
+        "text": "ENGENHEIRO COELHO"
+    },
+    {
+        "value": 3515186,
+        "text": "ESPIRITO SANTO DO PINHAL"
+    },
+    {
+        "value": 3515194,
+        "text": "ESPIRITO SANTO DO TURVO"
+    },
+    {
+        "value": 3557303,
+        "text": "ESTIVA GERBI"
+    },
+    {
+        "value": 3515301,
+        "text": "ESTRELA DO NORTE"
+    },
+    {
+        "value": 3515202,
+        "text": "ESTRELA D´OESTE"
+    },
+    {
+        "value": 3515350,
+        "text": "EUCLIDES DA CUNHA PAULISTA"
+    },
+    {
+        "value": 3515400,
+        "text": "FARTURA"
+    },
+    {
+        "value": 3515608,
+        "text": "FERNANDO PRESTES"
+    },
+    {
+        "value": 3515509,
+        "text": "FERNANDOPOLIS"
+    },
+    {
+        "value": 3515657,
+        "text": "FERNAO"
+    },
+    {
+        "value": 3515707,
+        "text": "FERRAZ DE VASCONCELOS"
+    },
+    {
+        "value": 3515806,
+        "text": "FLORA RICA"
+    },
+    {
+        "value": 3515905,
+        "text": "FLOREAL"
+    },
+    {
+        "value": 3516002,
+        "text": "FLORIDA PAULISTA"
+    },
+    {
+        "value": 3516101,
+        "text": "FLORINIA"
+    },
+    {
+        "value": 3516200,
+        "text": "FRANCA"
+    },
+    {
+        "value": 3516309,
+        "text": "FRANCISCO MORATO"
+    },
+    {
+        "value": 3516408,
+        "text": "FRANCO DA ROCHA"
+    },
+    {
+        "value": 3516507,
+        "text": "GABRIEL MONTEIRO"
+    },
+    {
+        "value": 3516606,
+        "text": "GALIA"
+    },
+    {
+        "value": 3516705,
+        "text": "GARCA"
+    },
+    {
+        "value": 3516804,
+        "text": "GASTAO VIDIGAL"
+    },
+    {
+        "value": 3516853,
+        "text": "GAVIAO PEIXOTO"
+    },
+    {
+        "value": 3516903,
+        "text": "GENERAL SALGADO"
+    },
+    {
+        "value": 3517000,
+        "text": "GETULINA"
+    },
+    {
+        "value": 3517109,
+        "text": "GLICERIO"
+    },
+    {
+        "value": 3517208,
+        "text": "GUAICARA"
+    },
+    {
+        "value": 3517307,
+        "text": "GUAIMBE"
+    },
+    {
+        "value": 3517406,
+        "text": "GUAIRA"
+    },
+    {
+        "value": 3517505,
+        "text": "GUAPIACU"
+    },
+    {
+        "value": 3517604,
+        "text": "GUAPIARA"
+    },
+    {
+        "value": 3517703,
+        "text": "GUARA"
+    },
+    {
+        "value": 3517802,
+        "text": "GUARACAI"
+    },
+    {
+        "value": 3517901,
+        "text": "GUARACI"
+    },
+    {
+        "value": 3518008,
+        "text": "GUARANI D´OESTE"
+    },
+    {
+        "value": 3518107,
+        "text": "GUARANTA"
+    },
+    {
+        "value": 3518206,
+        "text": "GUARARAPES"
+    },
+    {
+        "value": 3518305,
+        "text": "GUARAREMA"
+    },
+    {
+        "value": 3518404,
+        "text": "GUARATINGUETA"
+    },
+    {
+        "value": 3518503,
+        "text": "GUAREI"
+    },
+    {
+        "value": 3518602,
+        "text": "GUARIBA"
+    },
+    {
+        "value": 3518701,
+        "text": "GUARUJA"
+    },
+    {
+        "value": 3518800,
+        "text": "GUARULHOS"
+    },
+    {
+        "value": 3518859,
+        "text": "GUATAPARA"
+    },
+    {
+        "value": 3518909,
+        "text": "GUZOLANDIA"
+    },
+    {
+        "value": 3519006,
+        "text": "HERCULANDIA"
+    },
+    {
+        "value": 3519055,
+        "text": "HOLAMBRA"
+    },
+    {
+        "value": 3519071,
+        "text": "HORTOLANDIA"
+    },
+    {
+        "value": 3519105,
+        "text": "IACANGA"
+    },
+    {
+        "value": 3519204,
+        "text": "IACRI"
+    },
+    {
+        "value": 3519253,
+        "text": "IARAS"
+    },
+    {
+        "value": 3519303,
+        "text": "IBATE"
+    },
+    {
+        "value": 3519402,
+        "text": "IBIRA"
+    },
+    {
+        "value": 3519501,
+        "text": "IBIRAREMA"
+    },
+    {
+        "value": 3519600,
+        "text": "IBITINGA"
+    },
+    {
+        "value": 3519709,
+        "text": "IBIUNA"
+    },
+    {
+        "value": 3519808,
+        "text": "ICEM"
+    },
+    {
+        "value": 3519907,
+        "text": "IEPE"
+    },
+    {
+        "value": 3520004,
+        "text": "IGARACU DO TIETE"
+    },
+    {
+        "value": 3520103,
+        "text": "IGARAPAVA"
+    },
+    {
+        "value": 3520202,
+        "text": "IGARATA"
+    },
+    {
+        "value": 3520301,
+        "text": "IGUAPE"
+    },
+    {
+        "value": 3520426,
+        "text": "ILHA COMPRIDA"
+    },
+    {
+        "value": 3520442,
+        "text": "ILHA SOLTEIRA"
+    },
+    {
+        "value": 3520400,
+        "text": "ILHABELA"
+    },
+    {
+        "value": 3520509,
+        "text": "INDAIATUBA"
+    },
+    {
+        "value": 3520608,
+        "text": "INDIANA"
+    },
+    {
+        "value": 3520707,
+        "text": "INDIAPORA"
+    },
+    {
+        "value": 3520806,
+        "text": "INUBIA PAULISTA"
+    },
+    {
+        "value": 3520905,
+        "text": "IPAUCU"
+    },
+    {
+        "value": 3521002,
+        "text": "IPERO"
+    },
+    {
+        "value": 3521101,
+        "text": "IPEUNA"
+    },
+    {
+        "value": 3521150,
+        "text": "IPIGUA"
+    },
+    {
+        "value": 3521200,
+        "text": "IPORANGA"
+    },
+    {
+        "value": 3521309,
+        "text": "IPUA"
+    },
+    {
+        "value": 3521408,
+        "text": "IRACEMAPOLIS"
+    },
+    {
+        "value": 3521507,
+        "text": "IRAPUA"
+    },
+    {
+        "value": 3521606,
+        "text": "IRAPURU"
+    },
+    {
+        "value": 3521705,
+        "text": "ITABERA"
+    },
+    {
+        "value": 3521804,
+        "text": "ITAI"
+    },
+    {
+        "value": 3521903,
+        "text": "ITAJOBI"
+    },
+    {
+        "value": 3522000,
+        "text": "ITAJU"
+    },
+    {
+        "value": 3522109,
+        "text": "ITANHAEM"
+    },
+    {
+        "value": 3522158,
+        "text": "ITAOCA"
+    },
+    {
+        "value": 3522208,
+        "text": "ITAPECERICA DA SERRA"
+    },
+    {
+        "value": 3522307,
+        "text": "ITAPETININGA"
+    },
+    {
+        "value": 3522406,
+        "text": "ITAPEVA"
+    },
+    {
+        "value": 3522505,
+        "text": "ITAPEVI"
+    },
+    {
+        "value": 3522604,
+        "text": "ITAPIRA"
+    },
+    {
+        "value": 3522653,
+        "text": "ITAPIRAPUA PAULISTA"
+    },
+    {
+        "value": 3522703,
+        "text": "ITAPOLIS"
+    },
+    {
+        "value": 3522802,
+        "text": "ITAPORANGA"
+    },
+    {
+        "value": 3522901,
+        "text": "ITAPUI"
+    },
+    {
+        "value": 3523008,
+        "text": "ITAPURA"
+    },
+    {
+        "value": 3523107,
+        "text": "ITAQUAQUECETUBA"
+    },
+    {
+        "value": 3523206,
+        "text": "ITARARE"
+    },
+    {
+        "value": 3523305,
+        "text": "ITARIRI"
+    },
+    {
+        "value": 3523404,
+        "text": "ITATIBA"
+    },
+    {
+        "value": 3523503,
+        "text": "ITATINGA"
+    },
+    {
+        "value": 3523602,
+        "text": "ITIRAPINA"
+    },
+    {
+        "value": 3523701,
+        "text": "ITIRAPUA"
+    },
+    {
+        "value": 3523800,
+        "text": "ITOBI"
+    },
+    {
+        "value": 3523909,
+        "text": "ITU"
+    },
+    {
+        "value": 3524006,
+        "text": "ITUPEVA"
+    },
+    {
+        "value": 3524105,
+        "text": "ITUVERAVA"
+    },
+    {
+        "value": 3524204,
+        "text": "JABORANDI"
+    },
+    {
+        "value": 3524303,
+        "text": "JABOTICABAL"
+    },
+    {
+        "value": 3524402,
+        "text": "JACAREI"
+    },
+    {
+        "value": 3524501,
+        "text": "JACI"
+    },
+    {
+        "value": 3524600,
+        "text": "JACUPIRANGA"
+    },
+    {
+        "value": 3524709,
+        "text": "JAGUARIUNA"
+    },
+    {
+        "value": 3524808,
+        "text": "JALES"
+    },
+    {
+        "value": 3524907,
+        "text": "JAMBEIRO"
+    },
+    {
+        "value": 3525003,
+        "text": "JANDIRA"
+    },
+    {
+        "value": 3525102,
+        "text": "JARDINOPOLIS"
+    },
+    {
+        "value": 3525201,
+        "text": "JARINU"
+    },
+    {
+        "value": 3525300,
+        "text": "JAU"
+    },
+    {
+        "value": 3525409,
+        "text": "JERIQUARA"
+    },
+    {
+        "value": 3525508,
+        "text": "JOANOPOLIS"
+    },
+    {
+        "value": 3525607,
+        "text": "JOAO RAMALHO"
+    },
+    {
+        "value": 3525706,
+        "text": "JOSE BONIFACIO"
+    },
+    {
+        "value": 3525805,
+        "text": "JULIO MESQUITA"
+    },
+    {
+        "value": 3525854,
+        "text": "JUMIRIM"
+    },
+    {
+        "value": 3525904,
+        "text": "JUNDIAI"
+    },
+    {
+        "value": 3526001,
+        "text": "JUNQUEIROPOLIS"
+    },
+    {
+        "value": 3526100,
+        "text": "JUQUIA"
+    },
+    {
+        "value": 3526209,
+        "text": "JUQUITIBA"
+    },
+    {
+        "value": 3526308,
+        "text": "LAGOINHA"
+    },
+    {
+        "value": 3526407,
+        "text": "LARANJAL PAULISTA"
+    },
+    {
+        "value": 3526506,
+        "text": "LAVINIA"
+    },
+    {
+        "value": 3526605,
+        "text": "LAVRINHAS"
+    },
+    {
+        "value": 3526704,
+        "text": "LEME"
+    },
+    {
+        "value": 3526803,
+        "text": "LENCOIS PAULISTA"
+    },
+    {
+        "value": 3526902,
+        "text": "LIMEIRA"
+    },
+    {
+        "value": 3527009,
+        "text": "LINDOIA"
+    },
+    {
+        "value": 3527108,
+        "text": "LINS"
+    },
+    {
+        "value": 3527207,
+        "text": "LORENA"
+    },
+    {
+        "value": 3527256,
+        "text": "LOURDES"
+    },
+    {
+        "value": 3527306,
+        "text": "LOUVEIRA"
+    },
+    {
+        "value": 3527405,
+        "text": "LUCELIA"
+    },
+    {
+        "value": 3527504,
+        "text": "LUCIANOPOLIS"
+    },
+    {
+        "value": 3527603,
+        "text": "LUIS ANTONIO"
+    },
+    {
+        "value": 3527702,
+        "text": "LUIZIANIA"
+    },
+    {
+        "value": 3527801,
+        "text": "LUPERCIO"
+    },
+    {
+        "value": 3527900,
+        "text": "LUTECIA"
+    },
+    {
+        "value": 3528007,
+        "text": "MACATUBA"
+    },
+    {
+        "value": 3528106,
+        "text": "MACAUBAL"
+    },
+    {
+        "value": 3528205,
+        "text": "MACEDONIA"
+    },
+    {
+        "value": 3528304,
+        "text": "MAGDA"
+    },
+    {
+        "value": 3528403,
+        "text": "MAIRINQUE"
+    },
+    {
+        "value": 3528502,
+        "text": "MAIRIPORA"
+    },
+    {
+        "value": 3528601,
+        "text": "MANDURI"
+    },
+    {
+        "value": 3528700,
+        "text": "MARABA PAULISTA"
+    },
+    {
+        "value": 3528809,
+        "text": "MARACAI"
+    },
+    {
+        "value": 3528858,
+        "text": "MARAPOAMA"
+    },
+    {
+        "value": 3528908,
+        "text": "MARIAPOLIS"
+    },
+    {
+        "value": 3529005,
+        "text": "MARILIA"
+    },
+    {
+        "value": 3529104,
+        "text": "MARINOPOLIS"
+    },
+    {
+        "value": 3529203,
+        "text": "MARTINOPOLIS"
+    },
+    {
+        "value": 3529302,
+        "text": "MATAO"
+    },
+    {
+        "value": 3529401,
+        "text": "MAUA"
+    },
+    {
+        "value": 3529500,
+        "text": "MENDONCA"
+    },
+    {
+        "value": 3529609,
+        "text": "MERIDIANO"
+    },
+    {
+        "value": 3529658,
+        "text": "MESOPOLIS"
+    },
+    {
+        "value": 3529708,
+        "text": "MIGUELOPOLIS"
+    },
+    {
+        "value": 3529807,
+        "text": "MINEIROS DO TIETE"
+    },
+    {
+        "value": 3530003,
+        "text": "MIRA ESTRELA"
+    },
+    {
+        "value": 3529906,
+        "text": "MIRACATU"
+    },
+    {
+        "value": 3530102,
+        "text": "MIRANDOPOLIS"
+    },
+    {
+        "value": 3530201,
+        "text": "MIRANTE DO PARANAPANEMA"
+    },
+    {
+        "value": 3530300,
+        "text": "MIRASSOL"
+    },
+    {
+        "value": 3530409,
+        "text": "MIRASSOLANDIA"
+    },
+    {
+        "value": 3530508,
+        "text": "MOCOCA"
+    },
+    {
+        "value": 3530607,
+        "text": "MOGI DAS CRUZES"
+    },
+    {
+        "value": 3530706,
+        "text": "MOGI-GUACU"
+    },
+    {
+        "value": 3530805,
+        "text": "MOGI-MIRIM"
+    },
+    {
+        "value": 3530904,
+        "text": "MOMBUCA"
+    },
+    {
+        "value": 3531001,
+        "text": "MONCOES"
+    },
+    {
+        "value": 3531100,
+        "text": "MONGAGUA"
+    },
+    {
+        "value": 3531209,
+        "text": "MONTE ALEGRE DO SUL"
+    },
+    {
+        "value": 3531308,
+        "text": "MONTE ALTO"
+    },
+    {
+        "value": 3531407,
+        "text": "MONTE APRAZIVEL"
+    },
+    {
+        "value": 3531506,
+        "text": "MONTE AZUL PAULISTA"
+    },
+    {
+        "value": 3531605,
+        "text": "MONTE CASTELO"
+    },
+    {
+        "value": 3531803,
+        "text": "MONTE MOR"
+    },
+    {
+        "value": 3531704,
+        "text": "MONTEIRO LOBATO"
+    },
+    {
+        "value": 3531902,
+        "text": "MORRO AGUDO"
+    },
+    {
+        "value": 3532009,
+        "text": "MORUNGABA"
+    },
+    {
+        "value": 3532058,
+        "text": "MOTUCA"
+    },
+    {
+        "value": 3532108,
+        "text": "MURUTINGA DO SUL"
+    },
+    {
+        "value": 3532157,
+        "text": "NANTES"
+    },
+    {
+        "value": 3532207,
+        "text": "NARANDIBA"
+    },
+    {
+        "value": 3532306,
+        "text": "NATIVIDADE DA SERRA"
+    },
+    {
+        "value": 3532405,
+        "text": "NAZARE PAULISTA"
+    },
+    {
+        "value": 3532504,
+        "text": "NEVES PAULISTA"
+    },
+    {
+        "value": 3532603,
+        "text": "NHANDEARA"
+    },
+    {
+        "value": 3532702,
+        "text": "NIPOA"
+    },
+    {
+        "value": 3532801,
+        "text": "NOVA ALIANCA"
+    },
+    {
+        "value": 3532827,
+        "text": "NOVA CAMPINA"
+    },
+    {
+        "value": 3532843,
+        "text": "NOVA CANAA PAULISTA"
+    },
+    {
+        "value": 3532868,
+        "text": "NOVA CASTILHO"
+    },
+    {
+        "value": 3532900,
+        "text": "NOVA EUROPA"
+    },
+    {
+        "value": 3533007,
+        "text": "NOVA GRANADA"
+    },
+    {
+        "value": 3533106,
+        "text": "NOVA GUATAPORANGA"
+    },
+    {
+        "value": 3533205,
+        "text": "NOVA INDEPENDENCIA"
+    },
+    {
+        "value": 3533304,
+        "text": "NOVA LUZITANIA"
+    },
+    {
+        "value": 3533403,
+        "text": "NOVA ODESSA"
+    },
+    {
+        "value": 3533254,
+        "text": "NOVAIS"
+    },
+    {
+        "value": 3533502,
+        "text": "NOVO HORIZONTE"
+    },
+    {
+        "value": 3533601,
+        "text": "NUPORANGA"
+    },
+    {
+        "value": 3533700,
+        "text": "OCAUCU"
+    },
+    {
+        "value": 3533809,
+        "text": "OLEO"
+    },
+    {
+        "value": 3533908,
+        "text": "OLIMPIA"
+    },
+    {
+        "value": 3534005,
+        "text": "ONDA VERDE"
+    },
+    {
+        "value": 3534104,
+        "text": "ORIENTE"
+    },
+    {
+        "value": 3534203,
+        "text": "ORINDIUVA"
+    },
+    {
+        "value": 3534302,
+        "text": "ORLANDIA"
+    },
+    {
+        "value": 3534401,
+        "text": "OSASCO"
+    },
+    {
+        "value": 3534500,
+        "text": "OSCAR BRESSANE"
+    },
+    {
+        "value": 3534609,
+        "text": "OSVALDO CRUZ"
+    },
+    {
+        "value": 3534708,
+        "text": "OURINHOS"
+    },
+    {
+        "value": 3534807,
+        "text": "OURO VERDE"
+    },
+    {
+        "value": 3534757,
+        "text": "OUROESTE"
+    },
+    {
+        "value": 3534906,
+        "text": "PACAEMBU"
+    },
+    {
+        "value": 3535002,
+        "text": "PALESTINA"
+    },
+    {
+        "value": 3535101,
+        "text": "PALMARES PAULISTA"
+    },
+    {
+        "value": 3535200,
+        "text": "PALMEIRA D´OESTE"
+    },
+    {
+        "value": 3535309,
+        "text": "PALMITAL"
+    },
+    {
+        "value": 3535408,
+        "text": "PANORAMA"
+    },
+    {
+        "value": 3535507,
+        "text": "PARAGUACU PAULISTA"
+    },
+    {
+        "value": 3535606,
+        "text": "PARAIBUNA"
+    },
+    {
+        "value": 3535705,
+        "text": "PARAISO"
+    },
+    {
+        "value": 3535804,
+        "text": "PARANAPANEMA"
+    },
+    {
+        "value": 3535903,
+        "text": "PARANAPUA"
+    },
+    {
+        "value": 3536000,
+        "text": "PARAPUA"
+    },
+    {
+        "value": 3536109,
+        "text": "PARDINHO"
+    },
+    {
+        "value": 3536208,
+        "text": "PARIQUERA-ACU"
+    },
+    {
+        "value": 3536257,
+        "text": "PARISI"
+    },
+    {
+        "value": 3536307,
+        "text": "PATROCINIO PAULISTA"
+    },
+    {
+        "value": 3536406,
+        "text": "PAULICEIA"
+    },
+    {
+        "value": 3536505,
+        "text": "PAULINIA"
+    },
+    {
+        "value": 3536570,
+        "text": "PAULISTANIA"
+    },
+    {
+        "value": 3536604,
+        "text": "PAULO DE FARIA"
+    },
+    {
+        "value": 3536703,
+        "text": "PEDERNEIRAS"
+    },
+    {
+        "value": 3536802,
+        "text": "PEDRA BELA"
+    },
+    {
+        "value": 3536901,
+        "text": "PEDRANOPOLIS"
+    },
+    {
+        "value": 3537008,
+        "text": "PEDREGULHO"
+    },
+    {
+        "value": 3537107,
+        "text": "PEDREIRA"
+    },
+    {
+        "value": 3537156,
+        "text": "PEDRINHAS PAULISTA"
+    },
+    {
+        "value": 3537206,
+        "text": "PEDRO DE TOLEDO"
+    },
+    {
+        "value": 3537305,
+        "text": "PENAPOLIS"
+    },
+    {
+        "value": 3537404,
+        "text": "PEREIRA BARRETO"
+    },
+    {
+        "value": 3537503,
+        "text": "PEREIRAS"
+    },
+    {
+        "value": 3537602,
+        "text": "PERUIBE"
+    },
+    {
+        "value": 3537701,
+        "text": "PIACATU"
+    },
+    {
+        "value": 3537800,
+        "text": "PIEDADE"
+    },
+    {
+        "value": 3537909,
+        "text": "PILAR DO SUL"
+    },
+    {
+        "value": 3538006,
+        "text": "PINDAMONHANGABA"
+    },
+    {
+        "value": 3538105,
+        "text": "PINDORAMA"
+    },
+    {
+        "value": 3538204,
+        "text": "PINHALZINHO"
+    },
+    {
+        "value": 3538303,
+        "text": "PIQUEROBI"
+    },
+    {
+        "value": 3538501,
+        "text": "PIQUETE"
+    },
+    {
+        "value": 3538600,
+        "text": "PIRACAIA"
+    },
+    {
+        "value": 3538709,
+        "text": "PIRACICABA"
+    },
+    {
+        "value": 3538808,
+        "text": "PIRAJU"
+    },
+    {
+        "value": 3538907,
+        "text": "PIRAJUI"
+    },
+    {
+        "value": 3539004,
+        "text": "PIRANGI"
+    },
+    {
+        "value": 3539103,
+        "text": "PIRAPORA DO BOM JESUS"
+    },
+    {
+        "value": 3539202,
+        "text": "PIRAPOZINHO"
+    },
+    {
+        "value": 3539301,
+        "text": "PIRASSUNUNGA"
+    },
+    {
+        "value": 3539400,
+        "text": "PIRATININGA"
+    },
+    {
+        "value": 3539509,
+        "text": "PITANGUEIRAS"
+    },
+    {
+        "value": 3539608,
+        "text": "PLANALTO"
+    },
+    {
+        "value": 3539707,
+        "text": "PLATINA"
+    },
+    {
+        "value": 3539806,
+        "text": "POA"
+    },
+    {
+        "value": 3539905,
+        "text": "POLONI"
+    },
+    {
+        "value": 3540002,
+        "text": "POMPEIA"
+    },
+    {
+        "value": 3540101,
+        "text": "PONGAI"
+    },
+    {
+        "value": 3540200,
+        "text": "PONTAL"
+    },
+    {
+        "value": 3540259,
+        "text": "PONTALINDA"
+    },
+    {
+        "value": 3540309,
+        "text": "PONTES GESTAL"
+    },
+    {
+        "value": 3540408,
+        "text": "POPULINA"
+    },
+    {
+        "value": 3540507,
+        "text": "PORANGABA"
+    },
+    {
+        "value": 3540606,
+        "text": "PORTO FELIZ"
+    },
+    {
+        "value": 3540705,
+        "text": "PORTO FERREIRA"
+    },
+    {
+        "value": 3540754,
+        "text": "POTIM"
+    },
+    {
+        "value": 3540804,
+        "text": "POTIRENDABA"
+    },
+    {
+        "value": 3540853,
+        "text": "PRACINHA"
+    },
+    {
+        "value": 3540903,
+        "text": "PRADOPOLIS"
+    },
+    {
+        "value": 3541000,
+        "text": "PRAIA GRANDE"
+    },
+    {
+        "value": 3541059,
+        "text": "PRATANIA"
+    },
+    {
+        "value": 3541109,
+        "text": "PRESIDENTE ALVES"
+    },
+    {
+        "value": 3541208,
+        "text": "PRESIDENTE BERNARDES"
+    },
+    {
+        "value": 3541307,
+        "text": "PRESIDENTE EPITACIO"
+    },
+    {
+        "value": 3541406,
+        "text": "PRESIDENTE PRUDENTE"
+    },
+    {
+        "value": 3541505,
+        "text": "PRESIDENTE VENCESLAU"
+    },
+    {
+        "value": 3541604,
+        "text": "PROMISSAO"
+    },
+    {
+        "value": 3541653,
+        "text": "QUADRA"
+    },
+    {
+        "value": 3541703,
+        "text": "QUATA"
+    },
+    {
+        "value": 3541802,
+        "text": "QUEIROZ"
+    },
+    {
+        "value": 3541901,
+        "text": "QUELUZ"
+    },
+    {
+        "value": 3542008,
+        "text": "QUINTANA"
+    },
+    {
+        "value": 3542107,
+        "text": "RAFARD"
+    },
+    {
+        "value": 3542206,
+        "text": "RANCHARIA"
+    },
+    {
+        "value": 3542305,
+        "text": "REDENCAO DA SERRA"
+    },
+    {
+        "value": 3542404,
+        "text": "REGENTE FEIJO"
+    },
+    {
+        "value": 3542503,
+        "text": "REGINOPOLIS"
+    },
+    {
+        "value": 3542602,
+        "text": "REGISTRO"
+    },
+    {
+        "value": 3542701,
+        "text": "RESTINGA"
+    },
+    {
+        "value": 3542800,
+        "text": "RIBEIRA"
+    },
+    {
+        "value": 3542909,
+        "text": "RIBEIRAO BONITO"
+    },
+    {
+        "value": 3543006,
+        "text": "RIBEIRAO BRANCO"
+    },
+    {
+        "value": 3543105,
+        "text": "RIBEIRAO CORRENTE"
+    },
+    {
+        "value": 3543238,
+        "text": "RIBEIRAO DO INDIOS"
+    },
+    {
+        "value": 3543204,
+        "text": "RIBEIRAO DO SUL"
+    },
+    {
+        "value": 3543253,
+        "text": "RIBEIRAO GRANDE"
+    },
+    {
+        "value": 3543303,
+        "text": "RIBEIRAO PIRES"
+    },
+    {
+        "value": 3543402,
+        "text": "RIBEIRAO PRETO"
+    },
+    {
+        "value": 3543600,
+        "text": "RIFAINA"
+    },
+    {
+        "value": 3543709,
+        "text": "RINCAO"
+    },
+    {
+        "value": 3543808,
+        "text": "RINOPOLIS"
+    },
+    {
+        "value": 3543907,
+        "text": "RIO CLARO"
+    },
+    {
+        "value": 3544004,
+        "text": "RIO DAS PEDRAS"
+    },
+    {
+        "value": 3544103,
+        "text": "RIO GRANDE DA SERRA"
+    },
+    {
+        "value": 3544202,
+        "text": "RIOLANDIA"
+    },
+    {
+        "value": 3543501,
+        "text": "RIVERSUL"
+    },
+    {
+        "value": 3544251,
+        "text": "ROSANA"
+    },
+    {
+        "value": 3544301,
+        "text": "ROSEIRA"
+    },
+    {
+        "value": 3544400,
+        "text": "RUBIACEA"
+    },
+    {
+        "value": 3544509,
+        "text": "RUBINEIA"
+    },
+    {
+        "value": 3544608,
+        "text": "SABINO"
+    },
+    {
+        "value": 3544707,
+        "text": "SAGRES"
+    },
+    {
+        "value": 3544806,
+        "text": "SALES"
+    },
+    {
+        "value": 3544905,
+        "text": "SALES OLIVEIRA"
+    },
+    {
+        "value": 3545001,
+        "text": "SALESOPOLIS"
+    },
+    {
+        "value": 3545100,
+        "text": "SALMOURAO"
+    },
+    {
+        "value": 3545159,
+        "text": "SALTINHO"
+    },
+    {
+        "value": 3545209,
+        "text": "SALTO"
+    },
+    {
+        "value": 3545308,
+        "text": "SALTO DE PIRAPORA"
+    },
+    {
+        "value": 3545407,
+        "text": "SALTO GRANDE"
+    },
+    {
+        "value": 3545506,
+        "text": "SANDOVALINA"
+    },
+    {
+        "value": 3545605,
+        "text": "SANTA ADELIA"
+    },
+    {
+        "value": 3545704,
+        "text": "SANTA ALBERTINA"
+    },
+    {
+        "value": 3545803,
+        "text": "SANTA BARBARA D´OESTE"
+    },
+    {
+        "value": 3546009,
+        "text": "SANTA BRANCA"
+    },
+    {
+        "value": 3546108,
+        "text": "SANTA CLARA D´OESTE"
+    },
+    {
+        "value": 3546207,
+        "text": "SANTA CRUZ DA CONCEICAO"
+    },
+    {
+        "value": 3546256,
+        "text": "SANTA CRUZ DA ESPERANCA"
+    },
+    {
+        "value": 3546306,
+        "text": "SANTA CRUZ DAS PALMEIRAS"
+    },
+    {
+        "value": 3546405,
+        "text": "SANTA CRUZ DO RIO PARDO"
+    },
+    {
+        "value": 3546504,
+        "text": "SANTA ERNESTINA"
+    },
+    {
+        "value": 3546603,
+        "text": "SANTA FE DO SUL"
+    },
+    {
+        "value": 3546702,
+        "text": "SANTA GERTRUDES"
+    },
+    {
+        "value": 3546801,
+        "text": "SANTA ISABEL"
+    },
+    {
+        "value": 3546900,
+        "text": "SANTA LUCIA"
+    },
+    {
+        "value": 3547007,
+        "text": "SANTA MARIA DA SERRA"
+    },
+    {
+        "value": 3547106,
+        "text": "SANTA MERCEDES"
+    },
+    {
+        "value": 3547502,
+        "text": "SANTA RITA DO PASSA QUATRO"
+    },
+    {
+        "value": 3547403,
+        "text": "SANTA RITA D´OESTE"
+    },
+    {
+        "value": 3547601,
+        "text": "SANTA ROSA DE VITERBO"
+    },
+    {
+        "value": 3547650,
+        "text": "SANTA SALETE"
+    },
+    {
+        "value": 3547205,
+        "text": "SANTANA DA PONTE PENSA"
+    },
+    {
+        "value": 3547304,
+        "text": "SANTANA DE PARNAIBA"
+    },
+    {
+        "value": 3547700,
+        "text": "SANTO ANASTACIO"
+    },
+    {
+        "value": 3547809,
+        "text": "SANTO ANDRE"
+    },
+    {
+        "value": 3547908,
+        "text": "SANTO ANTONIO DA ALEGRIA"
+    },
+    {
+        "value": 3548005,
+        "text": "SANTO ANTONIO DE POSSE"
+    },
+    {
+        "value": 3548054,
+        "text": "SANTO ANTONIO DO ARACANGUA"
+    },
+    {
+        "value": 3548104,
+        "text": "SANTO ANTONIO DO JARDIM"
+    },
+    {
+        "value": 3548203,
+        "text": "SANTO ANTONIO DO PINHAL"
+    },
+    {
+        "value": 3548302,
+        "text": "SANTO EXPEDITO"
+    },
+    {
+        "value": 3548401,
+        "text": "SANTOPOLIS DO AGUAPEI"
+    },
+    {
+        "value": 3548500,
+        "text": "SANTOS"
+    },
+    {
+        "value": 3548609,
+        "text": "SAO BENTO DO SAPUCAI"
+    },
+    {
+        "value": 3548708,
+        "text": "SAO BERNARDO DO CAMPO"
+    },
+    {
+        "value": 3548807,
+        "text": "SAO CAETANO DO SUL"
+    },
+    {
+        "value": 3548906,
+        "text": "SAO CARLOS"
+    },
+    {
+        "value": 3549003,
+        "text": "SAO FRANCISCO"
+    },
+    {
+        "value": 3549102,
+        "text": "SAO JOAO DA BOA VISTA"
+    },
+    {
+        "value": 3549201,
+        "text": "SAO JOAO DAS DUAS PONTES"
+    },
+    {
+        "value": 3549250,
+        "text": "SAO JOAO DE IRACEMA"
+    },
+    {
+        "value": 3549300,
+        "text": "SAO JOAO DO PAU D´ALHO"
+    },
+    {
+        "value": 3549409,
+        "text": "SAO JOAQUIM DA BARRA"
+    },
+    {
+        "value": 3549508,
+        "text": "SAO JOSE DA BELA VISTA"
+    },
+    {
+        "value": 3549607,
+        "text": "SAO JOSE DO BARREIRO"
+    },
+    {
+        "value": 3549706,
+        "text": "SAO JOSE DO RIO PARDO"
+    },
+    {
+        "value": 3549805,
+        "text": "SAO JOSE DO RIO PRETO"
+    },
+    {
+        "value": 3549904,
+        "text": "SAO JOSE DOS CAMPOS"
+    },
+    {
+        "value": 3549953,
+        "text": "SAO LOURENCO DA SERRA"
+    },
+    {
+        "value": 3550001,
+        "text": "SAO LUIS DO PARAITINGA"
+    },
+    {
+        "value": 3550100,
+        "text": "SAO MANUEL"
+    },
+    {
+        "value": 3550209,
+        "text": "SAO MIGUEL ARCANJO"
+    },
+    {
+        "value": 3550308,
+        "text": "SAO PAULO"
+    },
+    {
+        "value": 3550407,
+        "text": "SAO PEDRO"
+    },
+    {
+        "value": 3550506,
+        "text": "SAO PEDRO DO TURVO"
+    },
+    {
+        "value": 3550605,
+        "text": "SAO ROQUE"
+    },
+    {
+        "value": 3550704,
+        "text": "SAO SEBASTIAO"
+    },
+    {
+        "value": 3550803,
+        "text": "SAO SEBASTIAO DA GRAMA"
+    },
+    {
+        "value": 3550902,
+        "text": "SAO SIMAO"
+    },
+    {
+        "value": 3551009,
+        "text": "SAO VICENTE"
+    },
+    {
+        "value": 3551108,
+        "text": "SARAPUI"
+    },
+    {
+        "value": 3551207,
+        "text": "SARUTAIA"
+    },
+    {
+        "value": 3551306,
+        "text": "SEBASTIANOPOLIS DO SUL"
+    },
+    {
+        "value": 3551405,
+        "text": "SERRA AZUL"
+    },
+    {
+        "value": 3551603,
+        "text": "SERRA NEGRA"
+    },
+    {
+        "value": 3551504,
+        "text": "SERRANA"
+    },
+    {
+        "value": 3551702,
+        "text": "SERTAOZINHO"
+    },
+    {
+        "value": 3551801,
+        "text": "SETE BARRAS"
+    },
+    {
+        "value": 3551900,
+        "text": "SEVERINIA"
+    },
+    {
+        "value": 3552007,
+        "text": "SILVEIRAS"
+    },
+    {
+        "value": 3552106,
+        "text": "SOCORRO"
+    },
+    {
+        "value": 3552205,
+        "text": "SOROCABA"
+    },
+    {
+        "value": 3552304,
+        "text": "SUD MENNUCCI"
+    },
+    {
+        "value": 3552403,
+        "text": "SUMARE"
+    },
+    {
+        "value": 3552551,
+        "text": "SUZANAPOLIS"
+    },
+    {
+        "value": 3552502,
+        "text": "SUZANO"
+    },
+    {
+        "value": 3552601,
+        "text": "TABAPUA"
+    },
+    {
+        "value": 3552700,
+        "text": "TABATINGA"
+    },
+    {
+        "value": 3552809,
+        "text": "TABOAO DA SERRA"
+    },
+    {
+        "value": 3552908,
+        "text": "TACIBA"
+    },
+    {
+        "value": 3553005,
+        "text": "TAGUAI"
+    },
+    {
+        "value": 3553104,
+        "text": "TAIACU"
+    },
+    {
+        "value": 3553203,
+        "text": "TAIUVA"
+    },
+    {
+        "value": 3553302,
+        "text": "TAMBAU"
+    },
+    {
+        "value": 3553401,
+        "text": "TANABI"
+    },
+    {
+        "value": 3553500,
+        "text": "TAPIRAI"
+    },
+    {
+        "value": 3553609,
+        "text": "TAPIRATIBA"
+    },
+    {
+        "value": 3553658,
+        "text": "TAQUARAL"
+    },
+    {
+        "value": 3553708,
+        "text": "TAQUARITINGA"
+    },
+    {
+        "value": 3553807,
+        "text": "TAQUARITUBA"
+    },
+    {
+        "value": 3553856,
+        "text": "TAQUARIVAI"
+    },
+    {
+        "value": 3553906,
+        "text": "TARABAI"
+    },
+    {
+        "value": 3553955,
+        "text": "TARUMA"
+    },
+    {
+        "value": 3554003,
+        "text": "TATUI"
+    },
+    {
+        "value": 3554102,
+        "text": "TAUBATE"
+    },
+    {
+        "value": 3554201,
+        "text": "TEJUPA"
+    },
+    {
+        "value": 3554300,
+        "text": "TEODORO SAMPAIO"
+    },
+    {
+        "value": 3554409,
+        "text": "TERRA ROXA"
+    },
+    {
+        "value": 3554508,
+        "text": "TIETE"
+    },
+    {
+        "value": 3554607,
+        "text": "TIMBURI"
+    },
+    {
+        "value": 3554656,
+        "text": "TORRE DE PEDRA"
+    },
+    {
+        "value": 3554706,
+        "text": "TORRINHA"
+    },
+    {
+        "value": 3554755,
+        "text": "TRABIJU"
+    },
+    {
+        "value": 3554805,
+        "text": "TREMEMBE"
+    },
+    {
+        "value": 3554904,
+        "text": "TRES FRONTEIRAS"
+    },
+    {
+        "value": 3554953,
+        "text": "TUIUTI"
+    },
+    {
+        "value": 3555000,
+        "text": "TUPA"
+    },
+    {
+        "value": 3555109,
+        "text": "TUPI PAULISTA"
+    },
+    {
+        "value": 3555208,
+        "text": "TURIUBA"
+    },
+    {
+        "value": 3555307,
+        "text": "TURMALINA"
+    },
+    {
+        "value": 3555356,
+        "text": "UBARANA"
+    },
+    {
+        "value": 3555406,
+        "text": "UBATUBA"
+    },
+    {
+        "value": 3555505,
+        "text": "UBIRAJARA"
+    },
+    {
+        "value": 3555604,
+        "text": "UCHOA"
+    },
+    {
+        "value": 3555703,
+        "text": "UNIAO PAULISTA"
+    },
+    {
+        "value": 3555802,
+        "text": "URANIA"
+    },
+    {
+        "value": 3555901,
+        "text": "URU"
+    },
+    {
+        "value": 3556008,
+        "text": "URUPES"
+    },
+    {
+        "value": 3556107,
+        "text": "VALENTIM GENTIL"
+    },
+    {
+        "value": 3556206,
+        "text": "VALINHOS"
+    },
+    {
+        "value": 3556305,
+        "text": "VALPARAISO"
+    },
+    {
+        "value": 3556354,
+        "text": "VARGEM"
+    },
+    {
+        "value": 3556404,
+        "text": "VARGEM GRANDE DO SUL"
+    },
+    {
+        "value": 3556453,
+        "text": "VARGEM GRANDE PAULISTA"
+    },
+    {
+        "value": 3556503,
+        "text": "VARZEA PAULISTA"
+    },
+    {
+        "value": 3556602,
+        "text": "VERA CRUZ"
+    },
+    {
+        "value": 3556701,
+        "text": "VINHEDO"
+    },
+    {
+        "value": 3556800,
+        "text": "VIRADOURO"
+    },
+    {
+        "value": 3556909,
+        "text": "VISTA ALEGRE DO ALTO"
+    },
+    {
+        "value": 3556958,
+        "text": "VITORIA BRASIL"
+    },
+    {
+        "value": 3557006,
+        "text": "VOTORANTIM"
+    },
+    {
+        "value": 3557105,
+        "text": "VOTUPORANGA"
+    },
+    {
+        "value": 3557154,
+        "text": "ZACARIAS"
+    }
+]

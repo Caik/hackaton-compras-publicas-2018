@@ -1,0 +1,8 @@
+{
+    "name": "google-maps-hack",
+    "version": "0.0.1",
+    "devDependencies": {
+        "gulp": "^3.8.11",
+        "gulp-connect-multi": "^1.0.8"
+    }
+}

@@ -28,7 +28,12 @@ gulp.task("watch", ["compile"], () => {
 gulp.task("serve", ["watch"], () => {
 	nodemon({
 		script: "dist/job.js",
-		env: { NODE_ENV: "development" }
+		env: {
+			NODE_ENV: "development"
+		},
+		ignore: [
+			"data/"
+		]
 	}).on("exit", () => {
 		process.exit(0);
 	});

@@ -23,6 +23,8 @@ services:
             - 'DB_DATABASE_NAME=${DB_DATABASE_NAME}'
             - 'DB_CONTAINER_HOST=${DB_CONTAINER_HOST}'
             - 'DB_FORCE_DROP_DATABASE=${DB_FORCE_DROP_DATABASE}'
+            - 'DATA_POPULATE=${DATA_POPULATE}'
+            - 'GOOGLE_MAPS_TOKEN=${GOOGLE_MAPS_TOKEN}'
         restart: on-failure
         networks:
             - job

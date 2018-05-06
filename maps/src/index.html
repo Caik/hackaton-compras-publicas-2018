@@ -1,30 +1,54 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<!--
-Design by TEMPLATED
-http://templated.co
-Released for free under the Creative Commons Attribution License
 
-Name       : Assembly 
-Description: A two-column, fixed-width design with dark color scheme.
-Version    : 1.0
-Released   : 20140330
-
--->
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Hackton</title>
+<style>
+		/* Always set the map height explicitly to define the size of the div
+		 * element that contains the map. */
+		#map {
+		  height: 70%;
+		}
+		/* Optional: Makes the sample page fill the window. */
+		html, body {
+		  height: 100%;
+		  margin: 0;
+		  padding: 0;
+		}
+		#floating-panel {
+		  position: absolute;
+		  top: 10px;
+		  left: 25%;
+		  z-index: 5;
+		  background-color: #fff;
+		  padding: 5px;
+		  border: 1px solid #999;
+		  text-align: center;
+		  font-family: 'Roboto','sans-serif';
+		  line-height: 30px;
+		  padding-left: 10px;
+		}
+		#floating-panel {
+		  background-color: #fff;
+		  border: 1px solid #999;
+		  left: 25%;
+		  padding: 5px;
+		  position: absolute;
+		  top: 10px;
+		  z-index: 5;
+		}
+	  </style>
+
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <link href="http://fonts.googleapis.com/css?family=Didact+Gothic" rel="stylesheet" />
 <link href="default.css" rel="stylesheet" type="text/css" media="all" />
 <link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
 
-<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
 
-<!--[if IE 6]><link href="default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
 </head>
-<body onload="initialize()">
+<body >
 	<div class="row text-center">
 		<div class="col">
 			<a href="#" class="btn btn-secondary mb-1">Technology</a>
@@ -36,36 +60,161 @@ Released   : 20140330
 		</div>
 		<!--end of col-->
 	</div>
-<div id="map_canvas">
-	<div id="header" class="container">
-		<div id="logo">
-		</div>
-		<div id="menu">
-			<ul>
-				<li class="active"><a href="#" accesskey="1" title="">Homepage</a></li>
-				<li><a href="#" accesskey="2" title="">Our Clients</a></li>
-				<li><a href="#" accesskey="3" title="">About Us</a></li>
-				<li><a href="#" accesskey="4" title="">Careers</a></li>
-				<li><a href="#" accesskey="5" title="">Contact Us</a></li>
-			</ul>
-		</div>
-	</div>
-</div>
-<div class="colunas">
-		<div class="col-6 col-sm-3">.col-6 .col-sm-3</div>
-		<div class="col-6 col-sm-3">.col-6 .col-sm-3</div>
-		<div class="col-6 col-sm-3">.col-6 .col-sm-3</div>
-		<div class="col-6 col-sm-3">.col-6 .col-sm-3</div>
-	    
-		
-		<!-- Force next columns to break to new line -->
-		<div class="w-100"></div>
-	  
-		<div class="col-6 col-sm-3">.col-6 .col-sm-3</div>
-		<div class="col-6 col-sm-3">.col-6 .col-sm-3</div>
-		<div class="col-6 col-sm-3">.col-6 .col-sm-3</div>
-		<div class="col-6 col-sm-3">.col-6 .col-sm-3</div>
-	  </div>
+    <div id="map"></div>
+	<script type="text/javascript" src="data.json"></script>
+    <script>
+	
+	var map, heatmap;
+
+	function initializeData() {
+		data = data.map(function(x){x.taxaMeta = ( x.totalEscolas == 0 ? 0 : x.idebMeta/x.totalEscolas); return x;});
+		data = data.map(function(x){x.metaPorCusto = (x.taxaMeta/(x.total+1)); return x});
+	}
+
+      function initMap() {
+	initializeData();
+        map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 8,
+		  center: {lng: -49.121008, lat: -22.0668726}
+
+        });
+
+
+        heatmap = new google.maps.visualization.HeatmapLayer({
+          data: getPointsTotal(),
+          map: map,
+	  radius: 60
+        });
+      }
+
+
+      function metas() {
+
+	    map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 8,
+          center: {lng: -49.121008, lat: -22.0668726},
+
+      });
+
+	    heatmap = new google.maps.visualization.HeatmapLayer({
+          data: getPointsMetas(),
+          map: map,
+	        radius: 60
+        });
+      }
+
+	 function gastos() {
+//        heatmap.set('radius', heatmap.get('radius') ? 20 : 40);
+//	heatmap.set('data', getPoints2());
+
+      map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 8,
+            center: {lng: -49.121008, lat: -22.0668726},
+
+      });
+
+	heatmap = new google.maps.visualization.HeatmapLayer({
+          data: getPointsGastos(),
+          map: map,
+	  radius: 60
+        });
+      }
+
+ function metaPorGasto() {
+//        heatmap.set('radius', heatmap.get('radius') ? 20 : 40);
+//	heatmap.set('data', getPoints2());
+
+	map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 8,
+          center: {lng: -49.121008, lat: -22.0668726},
+
+        });
+
+	heatmap = new google.maps.visualization.HeatmapLayer({
+          data: getPointsMetaPorGastos(),
+          map: map,
+	  radius: 60
+        });
+      }
+
+ function melhoras() {
+
+	map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 8,
+          center: {lng: -49.121008, lat: -22.0668726},
+
+        });
+
+	heatmap = new google.maps.visualization.HeatmapLayer({
+          data: getPointsMelhoras(),
+          map: map,
+	  radius: 60
+        });
+      }
+
+      function totalEscolas() {
+	map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 8,
+          center: {lng: -49.121008, lat: -22.0668726},
+
+        });
+
+	heatmap = new google.maps.visualization.HeatmapLayer({
+          data: getPointsTotal(),
+          map: map,
+	  radius: 60
+        });
+	}
+
+      function changeOpacity() {
+        heatmap.set('opacity', heatmap.get('opacity') ? null : 0.2);
+      }
+
+      // Heatmap data: 500 Points
+      function getPointsTotal() {
+	data = data.filter(function(x){return x.location.lat && x.location.lng});
+
+	var heatMapData = data.map(function(x){return {location: new google.maps.LatLng(x.location.lat , x.location.lng), weight: Math.log(x.totalEscolas + 1)} });
+        
+	return heatMapData;
+      }
+
+	function getPointsGastos() {
+	data = data.filter(function(x){return x.location.lat && x.location.lng});
+
+	var heatMapData = data.map(function(x){return {location: new google.maps.LatLng(x.location.lat , x.location.lng), weight: Math.log(x.total+1)} });
+        
+	return heatMapData;
+      }
+
+	function getPointsMetaPorGastos() {
+	data = data.filter(function(x){return x.location.lat && x.location.lng});
+
+	var heatMapData = data.map(function(x){return {location: new google.maps.LatLng(x.location.lat , x.location.lng), weight: x.metaPorCusto} });
+        
+	return heatMapData;
+      }
+
+      function getPointsMelhoras() {
+	data = data.filter(function(x){return x.location.lat && x.location.lng});
+
+	var heatMapData = data.map(function(x){return {location: new google.maps.LatLng(x.location.lat , x.location.lng), weight: x.idebMelhoras/x.totalEscolas} });
+        
+	return heatMapData;
+      }
+
+
+     function getPointsMetas() {
+	data = data.filter(function(x){return x.location.lat && x.location.lng});
+
+	var heatMapData = data.map(function(x){return {location: new google.maps.LatLng(x.location.lat , x.location.lng), weight: x.taxaMeta} });
+        
+	return heatMapData;
+      }
+    </script>
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBTab_eK86AnXj16ngjOOCLm9Hs9O7tKEU&libraries=visualization&callback=initMap">
+    </script>
 <div id="wrapper">
 	<div id="three-column" class="container">
 		<div class="title">
@@ -90,6 +239,5 @@ Released   : 20140330
 	<p>&copy; Hackaton Compras Públicas - 2018</p>
 </div>
 
-<script src="js/maps.js" type="text/javascript"></script>
 </body>
 </html>

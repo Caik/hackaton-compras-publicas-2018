@@ -8,7 +8,7 @@ var inicial = {
 
 var pontos = [];
 
-var divDoMapa = document.getElementById("map_canvas")
+var divDoMapa = document.getElementById("map")
   
 var opcoes = { 
     center: new google.maps.LatLng(inicial.latitude, inicial.longitude), 
